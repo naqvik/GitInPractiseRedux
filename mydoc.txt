@@ -1,1 +1,4 @@
 TODO: some stuff
+Add another line of text,
+and yet another,
+to demonstrate adding (then committing) a modified file.
