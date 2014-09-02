@@ -1,4 +1,4 @@
-TODO: some stuff
-Add another line of text,
-and yet another,
+TODO: a mixture of stuff
+Add another line of text, extended by joining with next,
+then by inserting a brand new line.
 to demonstrate adding (then committing) a modified file.
