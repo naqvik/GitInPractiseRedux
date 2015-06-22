@@ -2,3 +2,5 @@ TODO: a mixture of stuff
 Add another line of text, extended by joining with next,
 then by inserting a brand new line.
 to demonstrate adding (then committing) a modified file.
+
+I've added a new line, in a newly cloned repo.
