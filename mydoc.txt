@@ -4,3 +4,5 @@ then by inserting a brand new line.
 to demonstrate adding (then committing) a modified file.
 
 I've added a new line, in a newly cloned repo.
+Should be able to push from a repository without having to provide
+username and password.
