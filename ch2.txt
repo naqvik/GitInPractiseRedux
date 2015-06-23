@@ -1,0 +1,2 @@
+This is a sentence in the new chapter two file.  The file is actually
+named ch2.txt.
