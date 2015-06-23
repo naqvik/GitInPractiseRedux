@@ -4,5 +4,9 @@ then by inserting a brand new line.
 to demonstrate adding (then committing) a modified file.
 
 I've added a new line, in a newly cloned repo.
-Should be able to push from a repository without having to provide
-username and password.
+With the new origin url of 
+
+git@github.com:naqvik/GitInPractiseRedux.git
+
+now I'm not required to type my username/password every time I push
+something.
